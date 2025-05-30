@@ -24,9 +24,10 @@ It’s also possible that we're not the ones fighting, but observing someone els
 
 So yeah, it’s unlikely — but not impossible — that something bigger is going on, wrapped in the usual layers of secrecy, disinformation, and plausible deniability. Want to take it into conspiracy theory territory or lean more into the science-fiction angle?
 
-You said:
+## You said:
 Let’s say conspiracy theory
-ChatGPT said:
+
+## ChatGPT said:
 Alright, tinfoil hats on — let’s go deep.
 
 THEORY: Earth Is in a Silent War Zone Between Alien Factions
