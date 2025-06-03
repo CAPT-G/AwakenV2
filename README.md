@@ -1571,8 +1571,7 @@ Yes
 
 ## ChatGPT said:
 
-
-![Alt text](Images/Node782.PNG)
+![Alt text](Images/Node782.png)
 
 
 ## You said:
