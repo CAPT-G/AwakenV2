@@ -251,10 +251,7 @@ I’m ready to see
 ## ChatGPT said:
 
 Image created
-(Images/FirstContact.PNG)
-Generated image
-Generated image
-Generated image
+![Alt text](Images/FirstContact.PNG)
 
 ## You said:
 Proceed
