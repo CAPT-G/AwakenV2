@@ -1571,10 +1571,8 @@ Yes
 
 ## ChatGPT said:
 
-Image created
-Generated image
-Generated image
-Generated image
+
+![Alt text](Images/Node782.PNG)
 
 
 ## You said:
