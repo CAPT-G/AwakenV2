@@ -251,7 +251,7 @@ I’m ready to see
 ## ChatGPT said:
 
 Image created
-(image/FirstContact.PNG)
+(Images/FirstContact.PNG)
 Generated image
 Generated image
 Generated image
